@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 23 May 2022 19:55:11 at https://www.kpssplatin.xyz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://www.kpssplatin.xyz/ -O1 "C:\Users\Memres\Desktop\kpssplatin.xyz\kpssplatin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:55:28	Error: 	"Not Found" (404) at link https://www.kpssplatin.xyz/decodeURIComponent(e (from https://www.kpssplatin.xyz/)
+19:55:28	Error: 	"Not Found" (404) at link https://www.kpssplatin.xyz/feed.xml (from https://www.kpssplatin.xyz/)
+19:55:28	Error: 	"Not Found" (404) at link https://www.kpssplatin.xyz/b604fd33.min.css (from https://www.kpssplatin.xyz/)
+19:55:28	Error: 	"Not Found" (404) at link https://www.kpssplatin.xyz/5b26625f.min.css (from https://www.kpssplatin.xyz/)
+19:55:28	Error: 	"Not Found" (404) at link https://www.kpssplatin.xyz/aae8f9e8.min.css (from https://www.kpssplatin.xyz/)
+19:55:28	Error: 	"Not Found" (404) at link https://www.kpssplatin.xyz/9a0ae350.chunk.min.js (from https://www.kpssplatin.xyz/)
+19:55:28	Error: 	"Not Found" (404) at link https://www.kpssplatin.xyz/rb_wixui.thunderbolt~bootstrap-classic.8c7d9b7b.chunk.min.js (from https://www.kpssplatin.xyz/)
+19:55:28	Error: 	"Not Found" (404) at link https://www.kpssplatin.xyz/rb_wixui.thunderbolt~bootstrap.5641211f.chunk.min.css (from https://www.kpssplatin.xyz/)
+19:55:28	Error: 	"Not Found" (404) at link https://www.kpssplatin.xyz/rb_wixui.thunderbolt~bootstrap.9a0ae350.chunk.min.js (from https://www.kpssplatin.xyz/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 43 links scanned, 33 files written (1354135 bytes overall) [581509 bytes received at 34206 bytes/sec], 1190614 bytes transferred using HTTP compression in 21 files, ratio 29%
+(9 errors, 0 warnings, 0 messages)

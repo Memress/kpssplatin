@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.kpssplatin.xyz	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit#dc#desc=euw3
+www.kpssplatin.xyz	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1653324911|T-RjdxXJmcB0
+www.kpssplatin.xyz	TRUE	/	FALSE	1999999999	SameSite	None
+
