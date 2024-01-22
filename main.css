@@ -1,0 +1,45 @@
+#textBody {
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #000000;
+}
+
+#backgroundBody {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    /*background: url(background.png);*/
+    background-size: cover;
+    background-color: #ffffff;
+}
+
+.fa {
+    
+    padding: 20px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+
+    background: #720000;
+    color: #000000;
+}
+
+.da {
+    
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    color:  #000000;
+}
+
+
+.fa:hover {
+    opacity: 0.7;
+}
